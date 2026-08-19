@@ -7,7 +7,7 @@ export default function Home() {
       <section className="hero">
         <div>
           <span className="eyebrow">DIGITAL HERITAGE PLATFORM</span>
-          <h1>Discover India's Heritage,<br/><span>State by State.</span></h1>
+          <h1> CheckbyAdi Discover India's Heritage,<br/><span>State by State.</span></h1>
           <p>Explore monuments on interactive maps, read their history, listen to stories, take quizzes and help preserve heritage.</p>
           <Link className="primary-btn" to="/explore">Explore Heritage →</Link>
         </div>
